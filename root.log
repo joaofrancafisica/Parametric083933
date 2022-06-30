@@ -1,0 +1,205 @@
+2022-06-30 14:10:23,400 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 1664 image-pixels
+2022-06-30 14:10:23,498 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 14:10:23,498 - LensLightSub01 - INFO - Starting search
+2022-06-30 14:10:24,568 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 14:10:24,866 - LensLightSub01 - INFO - Saving path info
+2022-06-30 14:10:24,913 - LensLightSub01 - INFO - Not complete. Starting non-linear search.
+2022-06-30 14:10:24,913 - LensLightSub01 - INFO - number_of_cores == 4...
+2022-06-30 14:10:24,913 - LensLightSub01 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 14:10:24,914 - process 0 - INFO - created
+2022-06-30 14:10:24,915 - process 1 - INFO - created
+2022-06-30 14:10:24,916 - process 2 - INFO - created
+2022-06-30 14:10:24,916 - process 3 - INFO - created
+2022-06-30 14:10:24,934 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 14:10:25,266 - LensLightSub01 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 14:10:49,717 - LensLightSub01 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:11:22,432 - LensLightSub01 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:11:50,299 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 1664 image-pixels
+2022-06-30 14:11:50,384 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 14:11:50,384 - LensLightSub01 - INFO - Starting search
+2022-06-30 14:11:51,450 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 14:11:51,723 - LensLightSub01 - INFO - Saving path info
+2022-06-30 14:11:51,772 - LensLightSub01 - INFO - Not complete. Starting non-linear search.
+2022-06-30 14:11:51,772 - LensLightSub01 - INFO - number_of_cores == 4...
+2022-06-30 14:11:51,772 - LensLightSub01 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 14:11:51,773 - process 0 - INFO - created
+2022-06-30 14:11:51,777 - process 1 - INFO - created
+2022-06-30 14:11:51,778 - process 2 - INFO - created
+2022-06-30 14:11:51,779 - process 3 - INFO - created
+2022-06-30 14:11:51,801 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 14:11:52,129 - LensLightSub01 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 14:12:16,185 - LensLightSub01 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:12:56,080 - LensLightSub01 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:13:21,442 - LensLightSub01 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:13:35,499 - LensLightSub01 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:14:02,280 - LensLightSub01 - INFO - Removing zip file
+2022-06-30 14:14:02,621 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 1411 image-pixels
+2022-06-30 14:14:03,221 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 14:14:03,222 - LensLightSub02 - INFO - Starting search
+2022-06-30 14:14:04,436 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 14:14:04,852 - LensLightSub02 - INFO - Saving path info
+2022-06-30 14:14:04,969 - LensLightSub02 - INFO - Not complete. Starting non-linear search.
+2022-06-30 14:14:04,970 - LensLightSub02 - INFO - number_of_cores == 4...
+2022-06-30 14:14:04,970 - LensLightSub02 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 14:14:04,971 - process 0 - INFO - created
+2022-06-30 14:14:04,972 - process 1 - INFO - created
+2022-06-30 14:14:04,972 - process 2 - INFO - created
+2022-06-30 14:14:04,975 - process 3 - INFO - created
+2022-06-30 14:14:05,023 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 14:14:10,569 - LensLightSub02 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 14:14:52,263 - LensLightSub02 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:15:32,916 - LensLightSub02 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:16:09,430 - LensLightSub02 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:17:02,171 - LensLightSub02 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:17:44,329 - LensLightSub02 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:18:41,799 - LensLightSub02 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:19:21,510 - LensLightSub02 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:20:06,480 - LensLightSub02 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:20:51,590 - LensLightSub02 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:21:49,636 - LensLightSub02 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:22:40,617 - LensLightSub02 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:23:25,369 - LensLightSub02 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:24:26,456 - LensLightSub02 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:25:11,530 - LensLightSub02 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:25:57,448 - LensLightSub02 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:26:16,453 - LensLightSub02 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:26:37,276 - LensLightSub02 - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:26:53,151 - LensLightSub02 - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:27:29,579 - LensLightSub02 - INFO - Removing zip file
+2022-06-30 14:57:05,198 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 2828 image-pixels
+2022-06-30 14:57:05,338 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 14:57:05,339 - SourceParametric0 - INFO - Starting search
+2022-06-30 14:57:06,502 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 14:57:06,934 - SourceParametric0 - INFO - Saving path info
+2022-06-30 14:57:07,060 - SourceParametric0 - INFO - Not complete. Starting non-linear search.
+2022-06-30 14:57:07,061 - SourceParametric0 - INFO - number_of_cores == 4...
+2022-06-30 14:57:07,061 - SourceParametric0 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 14:57:07,062 - process 0 - INFO - created
+2022-06-30 14:57:07,063 - process 1 - INFO - created
+2022-06-30 14:57:07,064 - process 2 - INFO - created
+2022-06-30 14:57:07,066 - process 3 - INFO - created
+2022-06-30 14:57:07,086 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 14:57:11,780 - SourceParametric0 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 14:58:26,983 - SourceParametric0 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 14:59:46,842 - SourceParametric0 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:00:42,193 - SourceParametric0 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:02:01,989 - SourceParametric0 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:03:04,090 - SourceParametric0 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:04:06,744 - SourceParametric0 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:05:11,300 - SourceParametric0 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:06:10,294 - SourceParametric0 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:07:13,092 - SourceParametric0 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:08:14,900 - SourceParametric0 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:09:18,906 - SourceParametric0 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:10:33,071 - SourceParametric0 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:11:42,953 - SourceParametric0 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:12:58,354 - SourceParametric0 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:14:08,279 - SourceParametric0 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:15:25,714 - SourceParametric0 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:16:41,473 - SourceParametric0 - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:17:14,040 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 2828 image-pixels
+2022-06-30 15:17:14,188 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 15:17:14,189 - SourceParametric0 - INFO - Starting search
+2022-06-30 15:17:15,391 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 15:17:15,831 - SourceParametric0 - INFO - Saving path info
+2022-06-30 15:17:15,901 - SourceParametric0 - INFO - Not complete. Starting non-linear search.
+2022-06-30 15:17:15,902 - SourceParametric0 - INFO - number_of_cores == 4...
+2022-06-30 15:17:15,902 - SourceParametric0 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 15:17:15,903 - process 0 - INFO - created
+2022-06-30 15:17:15,903 - process 1 - INFO - created
+2022-06-30 15:17:15,904 - process 2 - INFO - created
+2022-06-30 15:17:15,905 - process 3 - INFO - created
+2022-06-30 15:17:15,935 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 15:17:19,173 - SourceParametric0 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 15:18:19,271 - SourceParametric0 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:19:33,290 - SourceParametric0 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:20:34,162 - SourceParametric0 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:21:42,109 - SourceParametric0 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:22:45,549 - SourceParametric0 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:23:44,081 - SourceParametric0 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:24:57,434 - SourceParametric0 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:26:12,040 - SourceParametric0 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:27:11,961 - SourceParametric0 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:28:17,997 - SourceParametric0 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:29:19,314 - SourceParametric0 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:30:25,529 - SourceParametric0 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:31:34,861 - SourceParametric0 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:32:43,300 - SourceParametric0 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:33:57,891 - SourceParametric0 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:35:04,573 - SourceParametric0 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:36:17,437 - SourceParametric0 - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:37:16,539 - SourceParametric0 - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:38:11,573 - SourceParametric0 - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:38:41,256 - SourceParametric0 - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:39:08,028 - SourceParametric0 - INFO - 105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:39:54,267 - SourceParametric0 - INFO - Removing zip file
+2022-06-30 15:41:24,685 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 2828 image-pixels
+2022-06-30 15:41:24,828 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 15:41:24,829 - SourceParametric0 - INFO - Starting search
+2022-06-30 15:41:25,794 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 15:41:26,145 - SourceParametric0 - INFO - Saving path info
+2022-06-30 15:41:26,218 - SourceParametric0 - INFO - Not complete. Starting non-linear search.
+2022-06-30 15:41:26,219 - SourceParametric0 - INFO - number_of_cores == 4...
+2022-06-30 15:41:26,219 - SourceParametric0 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 15:41:26,220 - process 0 - INFO - created
+2022-06-30 15:41:26,221 - process 1 - INFO - created
+2022-06-30 15:41:26,221 - process 2 - INFO - created
+2022-06-30 15:41:26,222 - process 3 - INFO - created
+2022-06-30 15:41:26,245 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 15:41:28,962 - SourceParametric0 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 15:42:18,472 - SourceParametric0 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:43:18,357 - SourceParametric0 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:44:14,205 - SourceParametric0 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:45:09,453 - SourceParametric0 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:46:05,371 - SourceParametric0 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:46:57,580 - SourceParametric0 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:47:55,435 - SourceParametric0 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:48:56,609 - SourceParametric0 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:49:53,646 - SourceParametric0 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:51:00,948 - SourceParametric0 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:52:02,633 - SourceParametric0 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:53:08,400 - SourceParametric0 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:54:09,157 - SourceParametric0 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:55:23,570 - SourceParametric0 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:56:26,156 - SourceParametric0 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:57:27,657 - SourceParametric0 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:58:33,915 - SourceParametric0 - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:59:20,181 - SourceParametric0 - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 15:59:46,599 - SourceParametric0 - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:00:10,584 - SourceParametric0 - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:00:58,634 - SourceParametric0 - INFO - Removing zip file
+2022-06-30 16:06:40,031 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 2828 image-pixels
+2022-06-30 16:06:40,153 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-06-30 16:06:40,154 - SourceParametric0 - INFO - Starting search
+2022-06-30 16:06:41,179 - autogalaxy.analysis.analysis - INFO - PRELOADS - Setting up preloads, may take a few minutes for fits using an inversion.
+2022-06-30 16:06:41,557 - SourceParametric0 - INFO - Saving path info
+2022-06-30 16:06:41,659 - SourceParametric0 - INFO - Not complete. Starting non-linear search.
+2022-06-30 16:06:41,659 - SourceParametric0 - INFO - number_of_cores == 4...
+2022-06-30 16:06:41,660 - SourceParametric0 - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2022-06-30 16:06:41,660 - process 0 - INFO - created
+2022-06-30 16:06:41,661 - process 1 - INFO - created
+2022-06-30 16:06:41,662 - process 2 - INFO - created
+2022-06-30 16:06:41,662 - process 3 - INFO - created
+2022-06-30 16:06:41,705 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2022-06-30 16:06:45,284 - SourceParametric0 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2022-06-30 16:07:37,910 - SourceParametric0 - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:08:53,551 - SourceParametric0 - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:09:47,653 - SourceParametric0 - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:10:46,838 - SourceParametric0 - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:11:52,451 - SourceParametric0 - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:13:04,067 - SourceParametric0 - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:14:21,014 - SourceParametric0 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:15:36,493 - SourceParametric0 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:16:57,176 - SourceParametric0 - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:18:26,612 - SourceParametric0 - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:19:35,930 - SourceParametric0 - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:20:55,334 - SourceParametric0 - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:22:05,350 - SourceParametric0 - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:23:28,262 - SourceParametric0 - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:24:47,220 - SourceParametric0 - INFO - 75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:26:07,480 - SourceParametric0 - INFO - 80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:27:25,952 - SourceParametric0 - INFO - 85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:28:05,417 - SourceParametric0 - INFO - 90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:28:32,351 - SourceParametric0 - INFO - 95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:28:58,038 - SourceParametric0 - INFO - 100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2022-06-30 16:30:07,938 - SourceParametric0 - INFO - Removing zip file
