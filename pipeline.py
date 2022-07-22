@@ -67,8 +67,8 @@ source_galaxy_model_0 = af.Model(al.Galaxy,
                                  redshift=zs,
                                  bulge=bulge_0)
 
-mass_0 = al.mp.EllIsothermal
-shear_0 = al.mp.ExternalShear
+mass_0 = af.Model(al.mp.EllIsothermal)
+shear_0 = af.Model(al.mp.ExternalShear)
 lens_galaxy_model_0 = af.Model(al.Galaxy,
                                redshift=zl,
                                mass=mass_0,
